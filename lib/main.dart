@@ -41,7 +41,7 @@ class NinjaCard extends StatelessWidget {
             ),
             Container(
               child: Text(
-                "Ayushi Chhabra",
+                "Raghav Gupta",
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 28
@@ -67,7 +67,7 @@ class NinjaCard extends StatelessWidget {
             ),
             Container(
               child: Text(
-                "18",
+                "19",
                 style: TextStyle(
                     color: Colors.white,
                     fontSize: 28
@@ -85,7 +85,7 @@ class NinjaCard extends StatelessWidget {
                   color: Colors.blue,
                 ),
                 Text(
-                  "  achhabra2802@gmail.com",
+                  "  E19CSE258@BENNETT.EDU.IN",
                   style: TextStyle(
                       color: Colors.grey,
                       fontSize: 18
@@ -103,7 +103,7 @@ class NinjaCard extends StatelessWidget {
                   color: Colors.blue,
                 ),
                 Text(
-                  "  9654445112",
+                  "  9582079619",
                   style: TextStyle(
                       color: Colors.grey,
                       fontSize: 18
